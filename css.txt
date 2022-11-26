@@ -86,7 +86,6 @@ li a:hover:not(.active) {
   margin-left: 15rem;
   width: 33rem;
   height: 40rem;
-  
   border-color: pink;
   margin-top: 5rem;
 }
@@ -186,7 +185,7 @@ li a:hover:not(.active) {
 }
 
 .contact-button:hover {
-  background-color: #dc143c;
+  background-color: crimson;
   color: aliceblue;
   cursor: pointer;
 }
